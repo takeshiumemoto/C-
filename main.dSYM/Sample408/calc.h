@@ -1,4 +1,4 @@
-#indef _CALC_H_
+#ifndef _CALC_H_
 #define  _CAL_H_
 
 void add(int,int);
